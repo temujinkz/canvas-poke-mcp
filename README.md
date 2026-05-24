@@ -1,3 +1,6 @@
+<img width="2304" height="1086" alt="Screenshot 2026-05-24 at 14 37 50" src="https://github.com/user-attachments/assets/1aec02a4-80b4-402e-bb21-929611c3f136" />
+
+
 # Canvas MCP for Poke
 
 Custom MCP server that uses the Canvas LMS API to surface grades, deadlines, assignments, announcements, and calendar context inside [Poke](https://poke.com), the AI assistant I use day to day for managing my email, to‑do list, and academic schedule by text.
